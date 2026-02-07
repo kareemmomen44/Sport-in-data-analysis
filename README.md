@@ -54,9 +54,9 @@ to extract insights that support **performance evaluation and decision-making**.
 | Name | Role | LinkedIn |
 |------|------|----------|
 | Karim Ahmed | Data Analyst (Team Leader) | [LinkedIn](www.linkedin.com/in/kareem-ahmed-abdelmoomen) |
-| Mohamed Osama | Visualization Wizard | [LinkedIn](LINK_HERE) |
-| Nagy Emad | Data Curator | [LinkedIn](LINK_HERE) |
-| Omar Elshamy | Data Modeling | [LinkedIn](LINK_HERE) |
+| Mohamed Osama | Visualization Wizard | [LinkedIn](www.linkedin.com/in/kareem-ahmed-abdelmoomen) |
+| Nagy Emad | Data Curator | [LinkedIn](www.linkedin.com/in/kareem-ahmed-abdelmoomen) |
+| Omar Elshamy | Data Modeling | [LinkedIn](www.linkedin.com/in/kareem-ahmed-abdelmoomen) |
 
 ---
 
