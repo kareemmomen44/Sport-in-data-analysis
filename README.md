@@ -53,10 +53,10 @@ to extract insights that support **performance evaluation and decision-making**.
 ## Team Members
 | Name | Role | LinkedIn |
 |------|------|----------|
-| Karim Ahmed | Data Analyst (Team Leader) | [LinkedIn](www.linkedin.com/in/kareem-ahmed-abdelmoomen) |
-| Mohamed Osama | Visualization Wizard | [LinkedIn](www.linkedin.com/in/kareem-ahmed-abdelmoomen) |
-| Nagy Emad | Data Curator | [LinkedIn](www.linkedin.com/in/kareem-ahmed-abdelmoomen) |
-| Omar Elshamy | Data Modeling | [LinkedIn](www.linkedin.com/in/kareem-ahmed-abdelmoomen) |
+| Karim Ahmed | Data Analyst (Team Leader) | [LinkedIn](https://www.linkedin.com/in/kareem-ahmed-abdelmoomen) |
+| Mohamed Osama | Visualization Wizard | [LinkedIn](https://www.linkedin.com/in/USERNAME) |
+| Nagy Emad | Data Curator | [LinkedIn](https://www.linkedin.com/in/USERNAME) |
+| Omar Elshamy | Data Modeling | [LinkedIn](https://www.linkedin.com/in/USERNAME) |
 
 ---
 
