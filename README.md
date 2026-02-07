@@ -7,10 +7,10 @@ to extract insights that support **performance evaluation and decision-making**.
 ---
 
 ## Project Objectives
-- Analyze sports datasets to identify trends and patterns
-- Design effective data visualizations
-- Support data-driven decision making
-- Apply end-to-end data analysis workflow
+- Understand how data analysis is applied in the sports industry
+- Analyze sports-related datasets to identify performance patterns
+- Evaluate player and team performance using analytical metrics
+- Translate data findings into clear visual insights
 
 ---
 
@@ -51,12 +51,12 @@ to extract insights that support **performance evaluation and decision-making**.
 ---
 
 ## Team Members
-| Name | Role |
-|------|------|
-| Karim Ahmed | Data Analyst (Team Leader) |
-| Mohamed Osama | Visualization Wizard |
-| Nagy Emad | Data Curator |
-| Omar Elshamy | Data Modeling |
+| Name | Role | LinkedIn |
+|------|------|----------|
+| Karim Ahmed | Data Analyst (Team Leader) | [LinkedIn](www.linkedin.com/in/kareem-ahmed-abdelmoomen) |
+| Mohamed Osama | Visualization Wizard | [LinkedIn](LINK_HERE) |
+| Nagy Emad | Data Curator | [LinkedIn](LINK_HERE) |
+| Omar Elshamy | Data Modeling | [LinkedIn](LINK_HERE) |
 
 ---
 
