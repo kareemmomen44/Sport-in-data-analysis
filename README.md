@@ -22,12 +22,15 @@ to extract insights that support **performance evaluation and decision-making**.
 ---
 
 ## Technologies & Tools
-**Programming & Analysis**
+
+### Programming & Analysis
 - Python
 - SQL
+- Excel 
 
-**Visualization**
+### Visualization
 - Power BI
+
 
 ---
 
@@ -55,7 +58,7 @@ to extract insights that support **performance evaluation and decision-making**.
 |------|------|----------|
 | Nagy Emad | Data Curator | [LinkedIn]([https://www.linkedin.com/in/USERNAME](https://www.linkedin.com/in/nagy-elshaer-96b319299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) |
 | Karim Ahmed | Data Analyst | [LinkedIn](https://www.linkedin.com/in/kareem-ahmed-abdelmoomen) |
-| Omar Elshamy | Data Modeling | [LinkedIn](https://www.linkedin.com/in/USERNAME) |
+| Omar Elshamy | Data Modeling | [LinkedIn]([https://www.linkedin.com/in/USERNAME](https://www.linkedin.com/in/omar-elshamy-aa402738b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)) |
 | Mohamed Osama | Visualization Wizard | [LinkedIn]([https://www.linkedin.com/in/USERNAME](https://www.linkedin.com/in/mohammed-abdou04)) |
 
 ---
