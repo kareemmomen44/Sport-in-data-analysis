@@ -56,10 +56,11 @@ to extract insights that support **performance evaluation and decision-making**.
 ## Team Members
 | Name | Role | LinkedIn |
 |------|------|----------|
-| Nagy Emad | Data Curator | [LinkedIn]([https://www.linkedin.com/in/USERNAME](https://www.linkedin.com/in/nagy-elshaer-96b319299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)) |
-| Karim Ahmed | Data Analyst | [LinkedIn](https://www.linkedin.com/in/kareem-ahmed-abdelmoomen) |
-| Omar Elshamy | Data Modeling | [LinkedIn]([https://www.linkedin.com/in/USERNAME](https://www.linkedin.com/in/omar-elshamy-aa402738b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)) |
-| Mohamed Osama | Visualization Wizard | [LinkedIn]([https://www.linkedin.com/in/USERNAME](https://www.linkedin.com/in/mohammed-abdou04)) |
+| Nagy Emad | Data Curator | [LinkedIn](https://www.linkedin.com/in/nagy-elshaer-96b319299) |
+| Karim Ahmed | Data Analyst (Team Leader) | [LinkedIn](https://www.linkedin.com/in/kareem-ahmed-abdelmoomen) |
+| Omar Elshamy | Data Modeling | [LinkedIn](https://www.linkedin.com/in/omar-elshamy-aa402738b) |
+| Mohamed Osama | Visualization Wizard | [LinkedIn](https://www.linkedin.com/in/mohammed-abdou04) |
+
 
 ---
 
